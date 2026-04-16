@@ -258,7 +258,7 @@ cd frontend && npm run build
 
 ## 🤝 **Team & Credits**
 
-Built with ❤️ for **HackBLR** 2025  
+Built with ❤️ for **HackBLR** 2026 
 Tech: Vapi + Qdrant + FastAPI + React
 
 ---
